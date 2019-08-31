@@ -1,4 +1,2 @@
 i am 1.txt
 chnages done from repository
-
-this is 3rd line
